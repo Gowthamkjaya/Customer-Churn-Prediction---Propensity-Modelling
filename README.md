@@ -2,7 +2,7 @@
 
 # Problem Statement:
 
-Customer churn is an imperative issue that is frequently connected with the existing cycle of the business. At the point when the business is in a development period of its life cycle, deals are expanding exponentially and the number of new clients to a great extent dwarfs the number of churners. On the opposite side, organizations in a developed period of in their life cycle set their emphasis on decreasing the rate of customer churn. StateStreet as a developed bank primarily concentrates on decreasing the rate of customer churn where the high impact Asset Management and Asset Owner KPI clients are targeted.
+Customer churn is an imperative issue that is frequently connected with the existing cycle of the business. At the point when the business is in a development period of its life cycle, deals are expanding exponentially and the number of new clients to a great extent dwarfs the number of churners. On the opposite side, organizations in a developed period of in their life cycle set their emphasis on decreasing the rate of customer churn. A developed bank primarily concentrates on decreasing the rate of customer churn where the high impact Asset Management and Asset Owner KPI clients are targeted.
 
 # Objective of the project:
 
